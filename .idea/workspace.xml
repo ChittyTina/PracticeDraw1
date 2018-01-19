@@ -7,7 +7,7 @@
   <component name="ChangeListManager">
     <list default="true" id="25243216-aa96-4a28-af7b-85851e07a6f1" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/hencoder/hencoderpracticedraw1/practice/Practice6DrawLineView.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/hencoder/hencoderpracticedraw1/practice/Practice6DrawLineView.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/hencoder/hencoderpracticedraw1/practice/Practice7DrawRoundRectView.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/hencoder/hencoderpracticedraw1/practice/Practice7DrawRoundRectView.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -47,14 +47,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Practice6DrawLineView.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hencoder/hencoderpracticedraw1/practice/Practice6DrawLineView.java">
+      <file leaf-file-name="Practice7DrawRoundRectView.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hencoder/hencoderpracticedraw1/practice/Practice7DrawRoundRectView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+            <state relative-caret-position="495">
+              <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
               <folding>
-                <element signature="e#758#759#0" expanded="true" />
-                <element signature="e#814#815#0" expanded="true" />
+                <element signature="e#854#855#0" expanded="true" />
+                <element signature="e#910#911#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -1927,6 +1927,7 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/hencoder/hencoderpracticedraw1/practice/Practice4DrawPointView.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/hencoder/hencoderpracticedraw1/practice/Practice5DrawOvalView.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/hencoder/hencoderpracticedraw1/practice/Practice6DrawLineView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/hencoder/hencoderpracticedraw1/practice/Practice7DrawRoundRectView.java" />
       </list>
     </option>
   </component>
@@ -2198,7 +2199,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1516357071702" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1516357746172" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -2246,7 +2247,7 @@
       </Profilers>
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1516357071702" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1516357746172" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -2440,7 +2441,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1516357071704" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1516357746173" />
       </method>
     </configuration>
     <list size="1">
@@ -2589,11 +2590,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hencoder/hencoderpracticedraw1/practice/Practice6DrawLineView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+        <state relative-caret-position="300">
+          <caret line="25" column="15" lean-forward="true" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
           <folding>
             <element signature="e#758#759#0" expanded="true" />
             <element signature="e#814#815#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hencoder/hencoderpracticedraw1/practice/Practice7DrawRoundRectView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding>
+            <element signature="e#854#855#0" expanded="true" />
+            <element signature="e#910#911#0" expanded="true" />
           </folding>
         </state>
       </provider>
